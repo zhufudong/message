@@ -1,0 +1,12 @@
+<config>
+	<timeout>10000</timeout>
+	<method>post</method>
+	<!-- 默认一般不需填写 -->
+	<!-- <product>Dysmsapi</product> <domain>dysmsapi.aliyuncs.com</domain> -->
+	<accessKeyId>从平台获取</accessKeyId>
+	<accessKeySecret>从平台获取</accessKeySecret>
+	<signName>r2c平台</signName>
+	<templates>
+		<template code="SMS_132060004" />
+	</templates>
+</config>
